@@ -1,7 +1,7 @@
 
 # My Local Trading Bot 🤖
 
-![1](https://i.ibb.co/yckSYrgX/Chat-GPT-Image-30-2025-18-19-40.png)
+![1](https://i.postimg.cc/B6c2txbp/Chat-GPT-Image-30-2025-18-19-40.png)
 
 
 Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a simple tool for real trading on the **Ethereum Mainnet**. Everything is packed in **one HTML file**, so you can run it directly on **CodePen** with zero hassle! 😎 The interface is inspired by VS Code — clean and intuitive — perfect for trading straight from your browser. Here’s how it works!
@@ -36,7 +36,7 @@ Hey crypto enthusiasts! I’m excited to share my **Local Trading Bot** — a si
 2.  **Start Trading:**
     
     -   *Click **Connect MetaMask** to link your wallet.*
-![Connect MetaMask](https://i.ibb.co/chGb6wB7/code.png#width=500)
+![Connect MetaMask](https://i.postimg.cc/4N3pNHgv/code.png)
     -   *Click **Deploy Contract** to deploy your smart contract (gas required).*
     -   *Enter **≥0.1 ETH**, set your slippage **(0.5%–49%)**, and click **Start**, confirming the function call in **MetaMask**.*
     -   *Check the log window for current transactions and profit potential.*
